@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1A780B6ADFB53F3B27AB2155C8EB9B795473D995",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1A780B6ADFB53F3B27AB2155C8EB9B795473D995" : 0,
+    "175777910124A53C7D15808347F3871F833B5AFE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F2377A68-F0FF-4C08-854D-538EF4D78441",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1A780B6ADFB53F3B27AB2155C8EB9B795473D995" : "Memorable%20Place\/",
+    "175777910124A53C7D15808347F3871F833B5AFE" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Memorable Place",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Memorable Place.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gracedu0213\/sample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "175777910124A53C7D15808347F3871F833B5AFE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gracedu0213\/Memorable-Place.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1A780B6ADFB53F3B27AB2155C8EB9B795473D995"
+    }
+  ]
+}
